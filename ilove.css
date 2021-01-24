@@ -21,17 +21,7 @@ body {
 	background-color: white;
 }
 
-.navbar-toggler-icon{
-background-image: url("eee.jpg") !important;
-width:50px;
-height:50px;
-}
 
-.navbar-brand {
-
-	background: url(jjabrams.jpg) no-repeat;
-
-}
 
 #god {
 
@@ -41,4 +31,11 @@ height:50px;
 .nav-link{
 
 	color:black;
+}
+
+#yeyo{
+
+	border:black 2px solid;
+	padding:5px;
+	margin: 40px 0px 0px 0px;
 }
